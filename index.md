@@ -1,5 +1,7 @@
 ## GitHub Pages
 
-I nneed to setup my github pages later.
+I need to setup my github pages later.
 
-some [file](map.html)
+A [map](map.html) file containing covid map of Italy.
+
+A [heatmap](plotly-demo/demo.html) created with plotly.
